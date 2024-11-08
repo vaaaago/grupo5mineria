@@ -1,3 +1,7 @@
 anime_cleaned.csv
 animelists_cleaned.csv
 users_cleaned.csv
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+venv/
+venv/*
